@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="select_level">选关卡</string>
+    <string name="what_you_select">你选择了：</string>
+    <string name="label_exit_app">退出游戏</string>
+    <string name="prv_level_label">上一关</string>
+    <string name="label_next_level">下一关</string>
+    <string name="label_reset_game">重新玩</string>
+    <string name="label_prev_level">上一关</string>
+    <string name="txt_game_over">恭喜通关！！！</string>
+
+</resources>
